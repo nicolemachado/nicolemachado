@@ -1,6 +1,6 @@
 ### Oii 👋
 
-🌺 19 anos 
+🌺 19y
 <br>
 🌹 Learning HTML, CSS and JavaScript
 <br>
