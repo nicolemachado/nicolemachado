@@ -26,5 +26,7 @@
     </a>
   <a href="https://www.linkedin.com/in/nicole-machado-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   <img align="right" width="160" alt="NicoleGif" src="https://cdn.discordapp.com/attachments/857752764577742848/872993774857490443/Webp.net-gifmaker.gif">
     </a> 
+  
 </div>
