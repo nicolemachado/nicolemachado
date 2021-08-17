@@ -1,6 +1,7 @@
 <img align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <a href="https://www.instagram.com/_badgirlnicole/"> <img align="right" width="200" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/876967736184541184/nicole.png"></a>
 <br>
 ✨Nicole or Neeko
+<br>
 🌺 19y
 <br>
 🌹 Learning HTML, CSS and JavaScript
