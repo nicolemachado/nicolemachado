@@ -1,11 +1,11 @@
-<img  width="100" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif">
-<img align="right" width="130" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/876967736184541184/nicole.png">
+<img  align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <img align="right" width="180" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/876967736184541184/nicole.png">
+
+##
 
 🌺 19y
 <br>
 🌹 Learning HTML, CSS and JavaScript
 <br>
-##
 <br>
 
  <div>
