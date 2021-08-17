@@ -4,7 +4,7 @@
 <br>
 🌺 19y
 <br>
-🌹 Learning HTML, CSS and JavaScript
+🌹 Learning HTML, CSS, JavaScript and Reactjs
 <br>
 ##
 <br>
