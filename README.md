@@ -1,4 +1,4 @@
-<img align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <a href="https://www.instagram.com/_nicolecnm/"> <img align="right" width="140" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
+<img align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <a href="https://www.instagram.com/_nicolecnm/" target="_blank"> <img align="right" width="140" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
 <br>
 ✨Nicole or Neeko
 <br>
