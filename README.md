@@ -1,4 +1,4 @@
-<img align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <a href="https://www.instagram.com/_badgirlnicole/"> <img align="right" width="140" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
+<img align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <a href="https://www.instagram.com/_nicolecnm/"> <img align="right" width="140" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
 <br>
 ✨Nicole or Neeko
 <br>
@@ -26,7 +26,7 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/_badgirlnicole/" target="_blank">
+  <a href="https://www.instagram.com/_nicolecnm/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
   <a href="https://www.linkedin.com/in/nicole-machado-dev/" target="_blank">
