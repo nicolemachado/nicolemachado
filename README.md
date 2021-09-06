@@ -20,7 +20,7 @@
   <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img align="center" alt="Reactjs" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="right" width="160" alt="NicoleGif" src="https://cdn.discordapp.com/attachments/857752764577742848/872993774857490443/Webp.net-gifmaker.gif">
+  
 </div>
   
   ##
