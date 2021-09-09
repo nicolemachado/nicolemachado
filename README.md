@@ -1,4 +1,7 @@
-<img align="center" width="120" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/873000600516837477/welcomeglitch.gif"> <a href="https://www.instagram.com/_nicolecnm/" target="_blank"> <img align="right" width="140" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
+<div align="center">
+<img align="center" width="200" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/885543452073418822/giphyhlwrd.gif">
+</div>
+ 
 <br>
 ✨Nicole or Neeko
 <br>
@@ -20,6 +23,8 @@
   <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img align="center" alt="Reactjs" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ 
+ <a href="https://www.instagram.com/_nicolecnm/" target="_blank"> <img align="right" width="160" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
   
 </div>
   
