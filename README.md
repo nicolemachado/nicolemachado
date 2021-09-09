@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="200" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/885543452073418822/giphyhlwrd.gif">
+<img align="center"  height="140em" width="350" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/885543452073418822/giphyhlwrd.gif">
 </div>
  
 <br>
@@ -9,7 +9,7 @@
 <br>
 🌹 Learning HTML, CSS, JavaScript and Reactjs
 <br>
-##
+<br>
 <br>
 
  <div>
