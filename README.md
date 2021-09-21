@@ -7,7 +7,7 @@
 <br>
 🌺 19y
 <br>
-🌹 Learning CSS, JavaScript and Reactjs
+🌹 Learning CSS, JavaScript, Reactjs and React Native
 <br>
 🍭 Github and Portfolio
 <br>
