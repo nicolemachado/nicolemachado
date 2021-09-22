@@ -9,7 +9,7 @@
 <br>
 🌹 Learning CSS, JavaScript, Reactjs and React Native
 <br>
-🍭 Github and Portfolio
+🍭 My Portfolio
 <br>
 <br>
 <br>
