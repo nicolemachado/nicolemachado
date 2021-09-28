@@ -7,7 +7,7 @@
 <br>
 🌺 19y
 <br>
-🌹 Learning CSS, JavaScript, Reactjs and React Native
+🌹 Learning CSS, JavaScript, Reactjs, React Native and Flutter (Dart).
 <br>
 🍭 My Portfolio
 <br>
@@ -25,6 +25,8 @@
   <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img align="center" alt="Reactjs" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="center" alt="Flutter" height="30" width="60" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+ <img align="center" alt="Dart" height="30" width="60" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  
  <a href="https://www.instagram.com/_nicolecnm/" target="_blank"> <img align="right" width="160" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
   
