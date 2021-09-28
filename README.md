@@ -5,6 +5,8 @@
 <br>
 ✨Nicole or Neeko
 <br>
+🌈 Web and Mobile developer
+<br>
 🌺 19y
 <br>
 🌹 Learning CSS, JavaScript, Reactjs, React Native and Flutter (Dart).
