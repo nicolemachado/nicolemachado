@@ -60,6 +60,6 @@
    <br/>
    <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
    <br/>
-   <a href="https://github.com/NicoleCnm">Github de trabalho - Workalove</a>
+   
 </div>
  
