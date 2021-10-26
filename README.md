@@ -29,6 +29,7 @@
  <img align="center" alt="Reactjs" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img align="center" alt="Flutter" height="30" width="60" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  <img align="center" alt="Dart" height="30" width="60" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+ <img align="center" alt="Dart" height="30" width="70" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  
  <a href="https://www.instagram.com/_nicolecnm/" target="_blank"> <img align="right" width="160" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
   
@@ -52,6 +53,12 @@
     <a href="https://www.twitch.tv/neekole__" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
     </a> 
+   <br/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+   <br/>
+   <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
    <br/>
    <a href="https://github.com/NicoleCnm">Github de trabalho - Workalove</a>
 </div>
