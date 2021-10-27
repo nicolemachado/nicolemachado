@@ -13,6 +13,7 @@
 <br>
 🍭 My Portfolio
 <br>
+On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5bbef4572">this link</a>, you will have access to my summaries about programming (pt-br) 
 <br>
 <br>
 
