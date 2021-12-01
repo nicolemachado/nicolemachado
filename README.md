@@ -19,7 +19,7 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
 
  <div align="center">
   <a href="https://github.com/nicolemachado">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemachado&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemachado&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
