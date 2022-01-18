@@ -30,8 +30,6 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
  <img align="center" alt="Flutter" height="30" width="60" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  <img align="center" alt="Dart" height="30" width="60" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  <img align="center" alt="Dart" height="30" width="70" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- 
- <a href="https://www.instagram.com/_nicolecnm/" target="_blank"> <img align="right" width="160" alt="Nicole img" src="https://cdn.discordapp.com/attachments/857752764577742848/877249075643310140/download20210801211105.png"></a>
   
 </div>
   
