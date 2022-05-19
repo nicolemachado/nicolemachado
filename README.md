@@ -9,7 +9,7 @@
 <br>
 🌺 20y
 <br>
-🌹 Learning CSS, JavaScript, Reactjs, React Native, TypeScript and Flutter (Dart)
+🌹 Learning CSS, JavaScript, Reactjs, React Native and Dart! 
 <br>
 🍭 My Portfolio
 <br>
