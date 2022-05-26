@@ -16,11 +16,6 @@
 On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5bbef4572">this link</a>, you will have access to my summaries about programming (pt-br) 
 <br>
 <br>
-
- <div align="center">
-  <a href="https://github.com/nicolemachado">
-  <img height="180em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemachado&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
