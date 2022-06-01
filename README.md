@@ -43,7 +43,7 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
    <a href="https://www.reddit.com/user/devNeeko" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
     </a> 
-    <a href="https://www.twitch.tv/neekozada" target="_blank">
+    <a href="https://www.twitch.tv/neekobugs" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
     </a> 
    <br/>
