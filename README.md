@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center"  height="250" width="250" alt="Nicole img" src="https://media.discordapp.net/attachments/904905624582750260/933097506034843678/neekogif.gif">
+<img align="center"  height="270" width="270" alt="Nicole img" src="https://media.discordapp.net/attachments/904905624582750260/981925827451174922/neekoGitHub.png">
 </div>
  
 <br>
