@@ -25,6 +25,7 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
  <img align="center" alt="Flutter" height="30" width="60" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  <img align="center" alt="Dart" height="30" width="60" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  <img align="center" alt="Dart" height="30" width="70" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="center" alt="Git" height="30" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   
 </div>
   
@@ -46,9 +47,14 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
     <a href="https://www.twitch.tv/neekobugs" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
     </a> 
+    <br />
+    <a href="https://open.spotify.com/user/212456mjn66shcthq2g5fqscq?si=015ee3af8f0742ca">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
    <br/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <br/>
      <img alt="figma" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    <img alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
