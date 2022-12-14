@@ -17,7 +17,7 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
 <br>
 <br>
   
-<div style="display: inline_block"><br>
+<div display="flex" align="center"><br>
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -30,7 +30,7 @@ On <a href="https://time-horse-883.notion.site/Resumos-f42794660dd24adf9ce735a5b
   
   ##
   
-  <div> 
+  <div display="flex" align="center"> 
   <a href="https://www.instagram.com/_nicolecnm/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
