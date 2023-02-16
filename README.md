@@ -5,11 +5,11 @@
 <br>
 ✨Nicole or Neeko
 <br>
-🌈 Web and Mobile developer
+🌈 Web, Mobile and future fullstack developer!
 <br>
-🌺 20y
+🌺 21y
 <br>
-🌹 Learning CSS, JavaScript, Reactjs, React Native and Dart! 
+🌹 Learning JavaScript, React and Python! 
 <br>
 🍭 My Portfolio
 <br>
