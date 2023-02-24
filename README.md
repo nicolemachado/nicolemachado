@@ -35,28 +35,20 @@
   <a href="https://www.linkedin.com/in/nicole-machado-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-   <a href="https://dev.to/nicolemachado" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
-    </a> 
    <a href="https://www.reddit.com/user/devNeeko" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://www.twitch.tv/neekobugs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-    </a> 
-    <br />
-    <a href="https://open.spotify.com/user/212456mjn66shcthq2g5fqscq?si=015ee3af8f0742ca">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
+    <br />
    <br/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <br/>
+ <br/>
      <img alt="figma" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    <img alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <br/>
- 
+ <br/>
    <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
    <br/>
    
