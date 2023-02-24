@@ -11,8 +11,6 @@
 <br>
 🌹 Learning JavaScript, React and Python! 
 <br>
-🍭 My Portfolio
-<br>
 <br>
   
 <div display="flex" align="center"><br>
