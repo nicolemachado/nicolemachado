@@ -7,7 +7,7 @@
 <br>
 🌈 Web, Mobile and future fullstack developer!
 <br>
-🌺 21y
+🌺 22y
 <br>
 🌹 Learning JavaScript, React and Python! 
 <br>
