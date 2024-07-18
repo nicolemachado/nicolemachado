@@ -1,15 +1,10 @@
-<div align="center">
-<img align="center"  height="270" width="270" alt="Nicole img" src="https://media.discordapp.net/attachments/904905624582750260/981925827451174922/neekoGitHub.png">
-</div>
- 
+✨Nicole ou Neeko
 <br>
-✨Nicole or Neeko
-<br>
-🌈 Web, Mobile and future fullstack developer!
+🌈 Dev frontend, as vezes me arrisco no backend e em mobile...
 <br>
 🌺 22y
 <br>
-🌹 Learning JavaScript, React and Python! 
+🌹 Atuo com ReactJS, JS e Python.
 <br>
 <br>
   
