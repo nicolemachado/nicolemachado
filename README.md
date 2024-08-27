@@ -4,7 +4,7 @@
 <br>
 🌺 22y
 <br>
-🌹 Atuo com ReactJS, JS e Python.
+🌹 Atuo com ReactJS, NextJS, JS e Python.
 <br>
 <br>
   
