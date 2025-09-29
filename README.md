@@ -1,12 +1,4 @@
-✨Nicole ou Neeko
-<br>
-🌈 Dev frontend, as vezes me arrisco no backend e em mobile...
-<br>
-🌺 22y
-<br>
-🌹 Atuo com ReactJS, NextJS, JS e Python.
-<br>
-<br>
+
   
   <div display="flex" align="center"> 
   <a href="https://www.instagram.com/_nicolecnm/" target="_blank">
